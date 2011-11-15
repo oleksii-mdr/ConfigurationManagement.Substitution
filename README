@@ -11,13 +11,11 @@ selected configuration in Visual Studio (or config passed to MSBuild or other bu
 Licenses
 --------
 
-This software is distributed under the terms of the Free Software Foundation [Lesser GNU Public License (LGPL), version 2.1][D1] (see lgpl.txt).
+This software is distributed under the terms of the Free Software Foundation [Lesser GNU Public License (LGPL), version 2.1][http://www.gnu.org/licenses/lgpl-2.1-standalone.html] 
 
-[D1]: http://www.gnu.org/licenses/lgpl-2.1-standalone.html
+
 
 Credits
 -------
 
-* [NUnit][] - unit-testing sample
-
-[NUnit]: http://www.nunit.org
+* [NUnit][http://www.nunit.org] - unit-testing sample
