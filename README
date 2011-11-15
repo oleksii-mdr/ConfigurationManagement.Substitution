@@ -1,0 +1,23 @@
+Welcome to ConfigurationManagement.Substitution
+=====================
+
+ConfigurationManagement.Substitution is a small sample project that shows 
+how to manage configurations for several types of Visual Studio projects.
+
+Substitution of configuration file happens on AfterBuild event. A user must 
+add a custom MSBuild task that applies correct configuration depending on the
+selected configuration in Visual Studio (or config passed to MSBuild or other build tool)
+
+Licenses
+--------
+
+This software is distributed under the terms of the Free Software Foundation [Lesser GNU Public License (LGPL), version 2.1][D1] (see lgpl.txt).
+
+[D1]: http://www.gnu.org/licenses/lgpl-2.1-standalone.html
+
+Credits
+-------
+
+* [NUnit][] - unit-testing sample
+
+[NUnit]: http://www.nunit.org
