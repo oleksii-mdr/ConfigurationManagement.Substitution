@@ -1,5 +1,5 @@
 Welcome to ConfigurationManagement.Substitution
-=====================
+===============================================
 
 ConfigurationManagement.Substitution is a small sample project that shows 
 how to manage configurations for several types of Visual Studio projects.
@@ -11,11 +11,9 @@ selected configuration in Visual Studio (or config passed to MSBuild or other bu
 Licenses
 --------
 
-This software is distributed under the terms of the Free Software Foundation [Lesser GNU Public License (LGPL), version 2.1][http://www.gnu.org/licenses/lgpl-2.1-standalone.html] 
-
-
+This software is distributed under the terms of the Free Software Foundation Lesser GNU Public License (LGPL), version 2.1
 
 Credits
 -------
 
-* [NUnit][http://www.nunit.org] - unit-testing sample
+* NUnit - unit-testing
